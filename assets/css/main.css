@@ -1165,6 +1165,7 @@ i.home-product-item__like-icon-fill {
 .footer {
     border-top: 4px solid var(--primary-color);
     padding-top: 16px;
+    line-height: 1.6;
 }
 
 .footer__heading {
@@ -1226,6 +1227,7 @@ i.home-product-item__like-icon-fill {
     font-family: 1.4rem;
     text-align: center;
     color: #737373;
+    top: 1px;
 }
 
 .footer__bottom {
