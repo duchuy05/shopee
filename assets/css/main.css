@@ -84,10 +84,6 @@
     border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-.header__navbar-user-item {
-
-}
-
 .header__navbar-user-item a {
     text-decoration: none;
     display: block;
@@ -343,10 +339,6 @@
     color: var(--primary-color);
     font-weight: 500;
     cursor: pointer;
-}
-
-.auth-form__form {
-
 }
 
 .auth-form__input {
@@ -859,10 +851,6 @@
     margin-left: 9px;
 }
 
-.category-item {
-
-}
-
 .category-item--active .category-item__link {
     color: var(--primary-color);
 }
@@ -1073,14 +1061,6 @@ i.home-product-item__like-icon-fill {
     font-weight: 300;
     font-size: 1.2rem;
     margin-top: 2px;
-}
-
-.home-product-item__brand {
-    
-}
-
-.home-product-item__origin-title {
-
 }
 
 .home-product-item__favourite {
